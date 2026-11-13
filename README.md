@@ -19,6 +19,10 @@ Then open Kimmy on your iPhone, go to **Backup**, and scan the QR code Kimmy Hom
 Kimmy Home checks for new versions by itself and shows an **Update** button when there is one.
 The check asks this page for the version number only; nothing about you or your photos is sent.
 
+## Privacy
+
+Kimmy and Kimmy Home never send your photos anywhere. The full policy: [PRIVACY.md](PRIVACY.md).
+
 ## What's new
 
 See the notes on each release.
